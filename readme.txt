@@ -9,3 +9,4 @@ Createing a newer branch is simple & quick
 Createing a new branch is quick
 Createing a new branch is quick and simple.
 feature1
+add merge
