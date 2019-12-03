@@ -5,3 +5,10 @@ changed!
 =======
 sdfkjsdf
 >>>>>>> d0481b99dfa444af7dbc658ca58b8c104b05813f
+Git is freedom software distrubuted under the GPL.
+Git is freedom software distrubuted under the GPL.
+Git is freedom software distrubuted under the GPL.
+Git is freedom software distrubuted under the GPL.
+Git is freedom software distrubuted under the GPL.
+Git is freedom software distrubuted under the GPL.
+Git is freedom software distrubuted under the GPL.
